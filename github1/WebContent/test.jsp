@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	연동테스트 중입니다. pjb
+	연동테스트 중입니다. chs
 </body>
 </html>
